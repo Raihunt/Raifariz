@@ -6,3 +6,7 @@ body {
     padding-top : 2rem;
     background-color: #b0b4b1;
 }
+
+card {
+    justify-content: center;
+}
